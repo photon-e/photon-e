@@ -3,6 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=photon-e&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=photon-e)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently working on being a polyglot programmer
@@ -11,6 +12,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: You can reach me on Twitter 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: its 42
+- ⚡ Fun fact: it's 42
 
 work in progress
