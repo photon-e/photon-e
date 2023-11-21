@@ -5,7 +5,7 @@
 
 
 
-<!--
+
 **photon-e/photon-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me on Twitter 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: its 42
--->
+
