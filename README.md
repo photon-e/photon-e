@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on being a polyglot programmer
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on anything but preferably open-source projects
+- 🔭 Aspiring polyglot programmer
+- 🌱 Still learning Python
+- 👯 I’m looking to collaborate on preferably open-source projects
 - 💬 Ask me about anything
-- 📫 How to reach me: You can reach me on Twitter 
+- You can reach me on Twitter 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: it's 42
 
