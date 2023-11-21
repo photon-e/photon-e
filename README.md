@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=photon-e)](https://git.io/streak-stats)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=photon-e)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31brtggynbmrxb4l5h3k3vn2jacy)
 
 
 - 🔭 I’m currently working on being a polyglot programmer
