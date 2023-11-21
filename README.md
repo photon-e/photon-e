@@ -18,4 +18,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: it's 42
 
+  <!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 work in progress
