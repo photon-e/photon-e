@@ -3,7 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=photon-e&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?3li_jah=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
