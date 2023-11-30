@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Aspiring polyglot programmer
-- 🌱 Still learning Python
+- 🌱 perpetual learner
 - 👯 I’m looking to collaborate on preferably open-source projects
 - 💬 Ask me about anything
 - You can reach me on Twitter 
