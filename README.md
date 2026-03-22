@@ -70,6 +70,8 @@ A lightweight platform connecting riders and passengers using simple, scalable i
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=photon-e&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=photon-e)
+
 ---
 
 ## 🤝 Collaboration
@@ -77,41 +79,11 @@ A lightweight platform connecting riders and passengers using simple, scalable i
 - Interested in:
   - Mobility tech 🚲  
   - Embedded systems 🤖  
-  - Fintech 💳  
+  - Blockchain 💳  
   - Cybersecurity 🔐  
 
 ---
 
 ## 💬 Ask Me About
 - Django architecture & APIs  
-- Building MVPs fast  
-- Mechatronics + software integration  
-- Networking basics (CCNA level)  
-
----
-
-## 📫 Connect With Me
-- Twitter: https://x/jah_3li
-
----
-
-## ⚡ Fun Fact
-> 42 is still the answer 😉
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=photon-e&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&show_icons=true&theme=radical)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=photon-e&layout=donut-vertical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=photon-e)](https://git.io/streak-stats)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31brtggynbmrxb4l5h3k3vn2jacy)
-
-
-  <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-work in progress
+- Building MVPs fast
