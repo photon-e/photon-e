@@ -1,12 +1,58 @@
 ### Hi there 👋
 
-- 🔭 Aspiring polyglot programmer
-- 🌱 perpetual learner
-- 👯 I’m looking to collaborate on preferably open-source projects
-- 💬 Ask me about anything
-- You can reach me on Twitter 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: it's 42
+## 🚀 About Me
+- 🔭 Building real-world apps with Django (currently working on a bike-hailing platform)
+- 🤖 Mechatronics student passionate about integrating hardware + software systems
+- 🌍 Focused on solving local problems with scalable tech solutions
+- 🌱 Learning across multiple languages, frameworks, and embedded systems
+- ⚡ Interested in backend systems, automation, and intelligent devices
+
+## 🛠️ Tech Stack
+
+### Software
+- Python (Django, DRF)
+- JavaScript (React Native, Expo)
+- Tailwind CSS / NativeWind
+- PostgreSQL / Supabase
+
+### Mechatronics / Hardware
+- Arduino (embedded systems)
+- Sensors & actuators
+- Basic robotics and control systems
+- Circuit design & prototyping
+
+## 🚧 Current Projects
+
+### Bike-Hailing App (Nigeria)
+A lightweight platform connecting riders and passengers using simple, scalable infrastructure.
+
+**Tech:** Django, DRF, Tailwind  
+**Goal:** Launch fast, iterate, and scale locally  
+
+### Embedded / Mechatronics Projects
+- Arduino-based automation systems (in progress)
+- Exploring smart devices and real-world control systems
+
+## 🤝 Collaboration
+- Open to collaborating on open-source projects
+- Interested in:
+  - Mobility tech
+  - Embedded systems
+  - Automation
+  - IoT
+
+## 💬 Ask Me About
+- Django project architecture
+- Building MVPs fast
+- Backend APIs
+- Arduino and beginner mechatronics projects
+
+## 📫 Connect With Me
+- Twitter: [your link here]
+
+## ⚡ Fun Fact
+> 42 is still the answer 😉
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=photon-e&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&show_icons=true&theme=radical)
 
