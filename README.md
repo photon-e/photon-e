@@ -85,5 +85,4 @@ A lightweight platform connecting riders and passengers using simple, scalable i
 ---
 
 ## 💬 Ask Me About
-- Django architecture & APIs  
-- Building MVPs fast
+Anything
