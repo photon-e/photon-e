@@ -1,57 +1,103 @@
-### Hi there 👋
+# Hi there 👋
 
-## 🚀 About Me
-- 🔭 Building real-world apps with Django (currently working on a bike-hailing platform)
-- 🤖 Mechatronics student passionate about integrating hardware + software systems
-- 🌍 Focused on solving local problems with scalable tech solutions
-- 🌱 Learning across multiple languages, frameworks, and embedded systems
-- ⚡ Interested in backend systems, automation, and intelligent devices
+🚀 Building software + hardware systems for real-world problems  
+
+---
+
+## 👨‍💻 About Me
+- 🔭 Currently building a bike-hailing platform (Nigeria-focused MVP)
+- 🤖 Mechatronics student integrating hardware + software systems
+- 🌐 Cisco CCNA certified (networking fundamentals, routing, switching)
+- 🔐 Interested in cybersecurity and secure system design
+- 🌱 Perpetual learner across backend, mobile, embedded, and networks
+- ⚡ Focused on solving real problems with fast, scalable solutions
+
+---
 
 ## 🛠️ Tech Stack
 
-### Software
-- Python (Django, DRF)
-- JavaScript (React Native, Expo)
-- Tailwind CSS / NativeWind
-- PostgreSQL / Supabase
+### 💻 Software
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Mechatronics / Hardware
-- Arduino (embedded systems)
+### 🗄️ Backend & DB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 Mechatronics / Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+- Embedded systems (Arduino)
 - Sensors & actuators
-- Basic robotics and control systems
 - Circuit design & prototyping
+- Basic robotics & control systems
+
+### 🌐 Networking & Security
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
+
+- CCNA: Routing & Switching fundamentals
+- Network design & troubleshooting
+- Security fundamentals (ongoing learning)
+
+---
 
 ## 🚧 Current Projects
 
-### Bike-Hailing App (Nigeria)
+### 🚲 Bike-Hailing App (Nigeria)
 A lightweight platform connecting riders and passengers using simple, scalable infrastructure.
 
-**Tech:** Django, DRF, Tailwind  
-**Goal:** Launch fast, iterate, and scale locally  
+- **Stack:** Django, DRF, Tailwind  
+- **Approach:** Build fast, iterate, scale  
+- **Focus:** Real-world deployment in local environments  
 
-### Embedded / Mechatronics Projects
-- Arduino-based automation systems (in progress)
-- Exploring smart devices and real-world control systems
+---
+
+### 🤖 Mechatronics Projects
+- Arduino-based automation systems  
+- Smart device experiments (IoT direction)  
+- Exploring real-time control + monitoring systems  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
 
 ## 🤝 Collaboration
-- Open to collaborating on open-source projects
+- Open to open-source and real-world projects  
 - Interested in:
-  - Mobility tech
-  - Embedded systems
-  - Automation
-  - IoT
+  - Mobility tech 🚲  
+  - Embedded systems 🤖  
+  - Fintech 💳  
+  - Cybersecurity 🔐  
+
+---
 
 ## 💬 Ask Me About
-- Django project architecture
-- Building MVPs fast
-- Backend APIs
-- Arduino and beginner mechatronics projects
+- Django architecture & APIs  
+- Building MVPs fast  
+- Mechatronics + software integration  
+- Networking basics (CCNA level)  
+
+---
 
 ## 📫 Connect With Me
-- Twitter: [your link here]
+- Twitter: https://x/jah_3li
+
+---
 
 ## ⚡ Fun Fact
 > 42 is still the answer 😉
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=photon-e&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&show_icons=true&theme=radical)
